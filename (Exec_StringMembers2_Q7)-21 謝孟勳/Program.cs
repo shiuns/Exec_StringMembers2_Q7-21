@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace _Exec_StringMembers2_Q7__21_謝孟勳
 {
+    //計算兩數之和,並只呈現小數二位數
     internal class Program
     {
         static void Main(string[] args)
